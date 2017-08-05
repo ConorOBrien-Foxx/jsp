@@ -1,0 +1,7 @@
+== Command line invocation ==
+
+> node jsp.js <source file>
+
+OR
+
+> cat <source file> | node jsp.js
